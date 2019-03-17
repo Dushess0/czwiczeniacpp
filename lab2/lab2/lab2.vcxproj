@@ -119,7 +119,9 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Array2D.h" />
+    <ClInclude Include="GreatestProduct.h" />
     <ClInclude Include="Polybius.h" />
+    <ClInclude Include="SimpleForwardList.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -26,5 +26,11 @@
     <ClInclude Include="Polybius.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="SimpleForwardList.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GreatestProduct.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
