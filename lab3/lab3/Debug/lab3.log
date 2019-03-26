@@ -1,0 +1,8 @@
+﻿  main.cpp
+d:\git\czwiczeniacpp\lab3\lab3\minimaltimedifference.h(9): warning C4101: 'result': unreferenced local variable
+d:\git\czwiczeniacpp\lab3\lab3\minimaltimedifference.h(26): warning C4018: '<': signed/unsigned mismatch
+d:\git\czwiczeniacpp\lab3\lab3\minimaltimedifference.h(29): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+d:\git\czwiczeniacpp\lab3\lab3\tinyurl.h(28): warning C4018: '<': signed/unsigned mismatch
+d:\git\czwiczeniacpp\lab3\lab3\tinyurl.h(56): warning C4018: '<': signed/unsigned mismatch
+d:\git\czwiczeniacpp\lab3\lab3\tinyurl.h(59): warning C4244: '+=': conversion from 'double' to 'long', possible loss of data
+  lab3.vcxproj -> D:\GIT\czwiczeniacpp\lab3\Debug\lab3.exe
