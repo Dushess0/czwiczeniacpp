@@ -1,0 +1,2 @@
+﻿main.obj : error LNK2019: unresolved external symbol "public: __thiscall fraction::~fraction(void)" (??1fraction@@QAE@XZ) referenced in function _main
+C:\Users\Illia Bannitsyn\source\repos\lab4\Debug\lab4.exe : fatal error LNK1120: 1 unresolved externals
